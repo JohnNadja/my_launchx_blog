@@ -10,19 +10,19 @@ Como inicio o, expectativa general de esta misión, no sólo espero aprender, ta
 
 Ahora bien, enumeraré las expectativas hasta el momento de lo que busco aprender con este __viaje__ 🌟
 
-## Lista desplegable de expectativas: ✨
-<details>
+## Lista de expectativas: ✨
+
 <summary>👁‍🗨 1: Visualizar el panorama de Git y GitHub</summary>
 <p>Desde lso comandos básicos en terminal, hasta realizar los mejores controles de versiones de un proyecto de software, busco entender las herramientas que ofrecen Hit y GirHub para la creación, colaboración y despliegue de repostiorios y/o proyectos durante la Misión Back End.</p>
 </details>
          
          
-<details>
+
 <summary>💡 2: Localizar ideas y abstraerlas en la programación con NodeJS</summary>
 <p>COmo se sabe, programar es lo más atractivo en el mundo de la tecnología, sin embargo, entender qué se quiere plasmar en un programa lo hace más complejo. Por suerte, teniendo los conocimientos, fuentes de información y referencias prácticas de proyectos, se podrá lograr la creación de aplicaciones. En esta expectativa busco aprender un lenguaje de programación llamado "JavaScript" que, será apoyada por Node.</p>
 </details>
          
-<details>
+
 <summary>✍🏼 3: Buenas prácticas de proyectos y ejercicios </summary>
 <p>Con el hábito, espero principalmente tener la otivacion de poder recrear y hacer los ejemplos y prácticas que se solciten realizar durante el viaje de Bakc End, teneidno en cuenta los errores para poder tener una mejor retroalimentación y además usar las pequeñas victorias como impulso para poder seguir mejorando en el desarrollo de software.</p>
 </details>
